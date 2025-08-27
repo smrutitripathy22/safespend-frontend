@@ -1,0 +1,13 @@
+body, html, #root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  /* font-size: small; */
+}
+th {
+  background-color: #63a9f5 !important;  /* A nice blue background */
+  color: white !important;               /* White text for good contrast */
+  font-weight: bold !important;          /* Makes the font bold */
+
+}
